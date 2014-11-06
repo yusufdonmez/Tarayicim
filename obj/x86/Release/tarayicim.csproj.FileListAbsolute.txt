@@ -1,0 +1,6 @@
+C:\Documents and Settings\eczacılık\Belgelerim\SharpDevelop Projects\tarayicim\tarayicim\bin\Release\tarayicim.exe
+C:\Documents and Settings\eczacılık\Belgelerim\SharpDevelop Projects\tarayicim\tarayicim\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\eczacılık\Belgelerim\SharpDevelop Projects\tarayicim\tarayicim\obj\x86\Release\tarayicim.Form2.resources
+C:\Documents and Settings\eczacılık\Belgelerim\SharpDevelop Projects\tarayicim\tarayicim\obj\x86\Release\tarayicim.MainForm.resources
+C:\Documents and Settings\eczacılık\Belgelerim\SharpDevelop Projects\tarayicim\tarayicim\obj\x86\Release\tarayicim.csproj.GenerateResource.Cache
+C:\Documents and Settings\eczacılık\Belgelerim\SharpDevelop Projects\tarayicim\tarayicim\obj\x86\Release\tarayicim.exe
